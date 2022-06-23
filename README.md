@@ -17,7 +17,7 @@ src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="65"/></a>
 src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="65"/></a>
 <a href="https://www.instagram.com/amtrsv/" target="blank"><img align="center" alt="Andrey MAtrosov Instagram" height="65" 
 src="https://img.icons8.com/plasticine/100/000000/instagram-new--v1.png" width="65"/></a>
-<a href="https://telegram.com/amtrsv/" target="blank"><img align="center" alt="amtrsv" height="65"
+<a href="https://telegram.com/amtrsv/" target="blank"><img align="center" alt="amtrsv" height="45"
 src="https://img.icons8.com/fluency/48/000000/telegram-app.png" width="65"/></a><a target="_blank"/></a>
 
 ### Languages and Tools: ###
