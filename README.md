@@ -3,7 +3,7 @@
 
 - 🐝 I'm working as an **Manual QA** at **[Sprintf](https://sprintf.ru)**
 
-- 🌱 I'm learning **Golang**
+- 🌱 I'm learning **Python**
 
 - 👨‍🏫 Also I'm studing at **[Vadym Ksendzov](https://ksendzov.com/) QA course**
 
