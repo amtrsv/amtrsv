@@ -26,7 +26,6 @@ src="https://img.icons8.com/fluency/48/000000/telegram-app.png" width="65"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-<a href="https://www.sourcetreeapp.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-sourcetree-is-a-nice-alternative-to-the-git-command-line-logo-color-tal-revivo.png" alt="typescript" width="50" height="50"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a>
@@ -41,7 +40,7 @@ src="https://img.icons8.com/fluency/48/000000/telegram-app.png" width="65"/></a>
 <table>
       <tr>
         <td>Feb 2022 - ...</td>
-        <td><a href="https://www.sprintf.ru">Sprintf</a>.
+        <td><a href="https://www.sprintf.ru">Sprintf</a>
           Junior Manual QA Engineer
         </td>
       </tr>  
