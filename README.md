@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrey Matrosov </h1>
 <h3 align="center">Attentive to the details Manual QA from Moscow, Russia</h3>
 
-- 🐝 I'm working as an **Manual QA** at **[Sprintf][https://sprintf.ru]**
+- 🐝 I'm working as an **Manual QA** at **[Sprintf](https://sprintf.ru)**
 
 - 🌱 I'm learning **Golang**
 
