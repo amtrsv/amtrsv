@@ -1,6 +1,6 @@
 <h1>Привет👋, Меня зовут Андрей:) </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Manual+QA+Engineer+->+AQA+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+->+AQA)](https://git.io/typing-svg)
 
 ## Мои контакты:
 <a href="https://telegram.com/amtrsv/" target="blank"><img align="center" alt="amtrsv" height="50"
@@ -46,6 +46,12 @@ src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="65"/></a>
   |  :star:    API проект тестирования  сервиса Reqres.in                            |   [API_TESTS](https://github.com/тутПокаПусто)                        |  
   |  :star:    Проект Mobile автоматизации приложения Wikipedia                      |   [MOBILE_TESTS](https://github.com/тутПокаПусто)                     |  
 
+### 🖼️ UI-тесты 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amtrsv&repo=UiWebSberTests)](https://github.com/тутПокаПусто)
+### 🔙 API-тесты 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amtrsv&repo=ApiRegresInTests)](https://github.com/тутПокаПусто)
+### 📱 Android-тесты
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amtrsv&repo=WikipediaMobileTests)](https://github.com/тутПокаПусто)
 
 
 
