@@ -51,7 +51,7 @@ src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="65"/></a>
 ### 🔙 API-тесты 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amtrsv&repo=API_Tests)](https://github.com/amtrsv/API_Tests)
 ### 📱 Android-тесты
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amtrsv&repo=WikipediaMobileTests)](https://github.com/amtrsv/MobileTests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amtrsv&repo=MobileTests)](https://github.com/amtrsv/MobileTests)
 
 
 
