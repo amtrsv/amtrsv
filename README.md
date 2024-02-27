@@ -47,7 +47,7 @@ src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="65"/></a>
   |  :star:    Проект Mobile автоматизации приложения Wikipedia                      |   [MOBILE_TESTS](https://github.com/amtrsv/MobileTests)               |  
 
 ### 🖼️ UI-тесты 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amtrsv&repo=UiWebSberTests)](https://github.com/amtrsv/UI_Raiffeisen_Tests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amtrsv&repo=UI_Raiffeisen_Tests)](https://github.com/amtrsv/UI_Raiffeisen_Tests)
 ### 🔙 API-тесты 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amtrsv&repo=API_Tests)](https://github.com/amtrsv/API_Tests)
 ### 📱 Android-тесты
