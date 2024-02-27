@@ -42,12 +42,12 @@ src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="65"/></a>
  
   |      Project name                                                                |                   GitHub links                                   
   |--------------------------------------------------------------------------------- |-----------------------------------------------------------------------|
-  |  :star:    Проект UI по автоматизации тестировании сайта ПАО "Сбер"              |   [UI_TESTS](https://github.com/тутПокаПусто)                         |  
+  |  :star:    Проект UI по автоматизации тестировании сайта ПАО "Сбер"              |   [UI_TESTS](https://github.com/amtrsv/UI_Raiffeisen_Tests)           |  
   |  :star:    API проект тестирования  сервиса Reqres.in                            |   [API_TESTS](https://github.com/amtrsv/API_Tests)                    |  
   |  :star:    Проект Mobile автоматизации приложения Wikipedia                      |   [MOBILE_TESTS](https://github.com/amtrsv/MobileTests)               |  
 
 ### 🖼️ UI-тесты 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amtrsv&repo=UiWebSberTests)](https://github.com/тутПокаПусто)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amtrsv&repo=UiWebSberTests)](https://github.com/amtrsv/UI_Raiffeisen_Tests)
 ### 🔙 API-тесты 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amtrsv&repo=API_Tests)](https://github.com/amtrsv/API_Tests)
 ### 📱 Android-тесты
